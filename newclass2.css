@@ -1,0 +1,9 @@
+.light-container{
+    border:1px solid green
+}
+.light-content{
+    border: 1px solid yellow;
+}
+.light-img{
+    border: 1px solid blue;
+}

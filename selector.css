@@ -1,0 +1,27 @@
+body{
+    background-color: #083e9e;
+}
+h3{
+    color: white;
+    text-align: center;
+
+}
+div{
+    height: 230px;
+    width: 248px;
+    background-color: white;
+    border-radius: 12px;
+    margin: auto;
+}
+h4{
+    color: #083e9e;
+}
+.email{
+    color: green;
+}
+.password{
+    color: rgb(171, 38, 204);
+}
+#heading{
+    font-size: 15px;
+}
